@@ -1,1 +1,0 @@
-# angular-Photo_Gallery
