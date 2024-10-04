@@ -9,5 +9,11 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'app';
+  
+    title : string = 'Task List';
+  
+    constructor() { }
+  
+    ngOnInit(): void {}
+  
 }
